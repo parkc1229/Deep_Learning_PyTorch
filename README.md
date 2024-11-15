@@ -1,1 +1,3 @@
 # Deep_Learning_PyTorch
+
+The notebook focuses on implementing deep learning tasks using PyTorch. It starts by importing libraries such as PyTorch, NumPy, and additional tools for neural network construction, optimization, and data handling. The notebook consists of 6 code cells that include defining neural network structures, setting up optimization processes, and utilizing advanced techniques such as deque and random sampling for data processing. This notebook demonstrates practical applications of PyTorch for deep learning and showcases skills in building and managing neural network workflows.
